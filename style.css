@@ -1,0 +1,17 @@
+html,body {
+    margin: 0;
+}
+
+h1 {
+    color: white;
+}
+
+.div-1 {
+    background-color: black;
+}
+
+body {
+    overflow: hidden;
+    background-color: black;
+}
+
